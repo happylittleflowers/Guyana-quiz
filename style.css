@@ -1,0 +1,40 @@
+html {
+  background: url("img/guyana.jpg");
+  background-size: cover;
+}
+body {
+  background-color: lightseagreen;
+  text-align: center;
+  padding: 10px 0;
+  width: 600px;
+  margin: 15px auto;
+  border-radius: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 17px;
+  letter-spacing: 0px;
+}
+
+hr {
+  width: 200px;
+}
+
+p {
+  font-size: 15px;
+}
+
+button {
+  background: blue;
+  color: white;
+  border-radius: 18px;
+  padding: 4px 26px;
+  cursor: pointer;
+}
+
+#guyana-img {
+  width: 10px;
+  height: 0px;
+}
